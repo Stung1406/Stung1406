@@ -1,12 +1,9 @@
 
 # Hi, I'm Son Tung 👋
 
-### Final-year Software Engineering Student | .NET Backend Developer
+### 3-Year Information Student
 
-I'm interested in backend development, database systems,
-and artificial intelligence.
-
-- 💻 Backend: C#, .NET, ASP.NET Core
+- 💻 Backend: PHP,Laravel
 - 🗄️ Database: SQL Server, MySQL
 - 🐍 Programming: Python, SQL, JavaScript
 - ⚛️ Frontend: React, HTML, CSS, Bootstrap
